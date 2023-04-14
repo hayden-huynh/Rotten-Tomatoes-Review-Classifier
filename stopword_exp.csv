@@ -1,0 +1,8 @@
+stopwords,accuracy
+'none',80.7625
+'nltk',80.5896
+['the','a','and','of','is','to','it','in','that','its],80.7104
+['with','but','this','for','as','an','on','be'],80.6396
+['film','movie','not','you','at','by','from','are','has','more','like','than'],80.6813
+['one','about','his','all','if','have','so','or'],80.6479
+
